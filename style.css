@@ -3,7 +3,7 @@
     --cartao-frente:#8b1313;
     --cartao-verso:#8b1313;
     --destaque:#4B0082;
-    --preto:#00000000;
+    --azul:#240fdf;
     --branco:#ffffff;
 }
 
@@ -12,7 +12,7 @@ body{
 
 }
 footer{
-    background-color: var(--branco); 
+    background-color: var(--azul); 
     position: fixed;
     bottom: 0;
     color: var(--preto);
