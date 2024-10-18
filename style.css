@@ -67,4 +67,5 @@ gap: 3rem;
 
 .pergunta-cartao, .resposta-cartao{
     backface-visibility: hidden;
+    position: absolute;
 }
