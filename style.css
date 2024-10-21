@@ -20,6 +20,17 @@ footer{
     text-align: center;
 }
 
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: var(--vermelho);
+    padding: 2rem;
+}
+
+header a{
+    color: var(--branco);
+}
 
 #container{
     display:flex;
